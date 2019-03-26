@@ -1,0 +1,8 @@
+[25-Mar-2019 21:02:50 UTC] PHP Fatal error:  Call to undefined function wp() in /home/ubuntu/workspace/wordpress/wp-blog-header.php on line 16
+[25-Mar-2019 21:02:50 UTC] PHP Stack trace:
+[25-Mar-2019 21:02:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/wordpress/index.php:0
+[25-Mar-2019 21:02:50 UTC] PHP   2. require() /home/ubuntu/workspace/wordpress/index.php:17
+[25-Mar-2019 21:02:53 UTC] PHP Fatal error:  Call to undefined function wp() in /home/ubuntu/workspace/wordpress/wp-blog-header.php on line 16
+[25-Mar-2019 21:02:53 UTC] PHP Stack trace:
+[25-Mar-2019 21:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/wordpress/index.php:0
+[25-Mar-2019 21:02:53 UTC] PHP   2. require() /home/ubuntu/workspace/wordpress/index.php:17
